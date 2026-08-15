@@ -1,6 +1,8 @@
 Replacement Body section with Mounting Holes for Picatinny Rail
 Original Hardware will work with this build, 
 
+The only thing this does is add two holes in the top of the actuator frame to which a picatinny rail can be mounted
+
 Note: 	Built for pitclamp Mini Housing
 Note: 	This version may be replaced later with the full Rifle Conversion later, will be stored as a seperate build if so
 	looking like the motor body will be quite forward on the chassis of that project so if this does stay in the build it will act as a forward
